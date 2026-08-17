@@ -1,0 +1,86 @@
+{
+  "fields": {
+    "f_name": "Finn Madsen",
+    "f_class": "Digitech123",
+    "f_date": "18/8/2026",
+    "folder1_name": "/pages",
+    "folder1_desc": "HTML files",
+    "folder2_name": "/images",
+    "folder2_desc": "Images used on the website",
+    "folder3_name": "",
+    "folder3_desc": "",
+    "f_naming": "Lower case, \"_\" instead of space",
+    "f_version": "GitHub Repository",
+    "k_name": "Finn Madsen",
+    "k_class": "Digitech123",
+    "k_date": "18/8/2026",
+    "comp1_name": "Menu/Navigation Bar",
+    "comp1_pages": "All Pages",
+    "comp1_reuse": "Copy and pasting the html code",
+    "comp2_name": "",
+    "comp2_pages": "",
+    "comp2_reuse": "",
+    "p_name": "",
+    "p_class": "",
+    "p_date": "",
+    "page1_name": "",
+    "page1_chk_structure": false,
+    "page1_chk_content": false,
+    "page1_chk_styled": false,
+    "page1_chk_links": false,
+    "page1_chk_tested": false,
+    "page1_notes": "",
+    "page2_name": "",
+    "page2_chk_structure": false,
+    "page2_chk_content": false,
+    "page2_chk_styled": false,
+    "page2_chk_links": false,
+    "page2_chk_tested": false,
+    "page2_notes": "",
+    "page3_name": "",
+    "page3_chk_structure": false,
+    "page3_chk_content": false,
+    "page3_chk_styled": false,
+    "page3_chk_links": false,
+    "page3_chk_tested": false,
+    "page3_notes": "",
+    "e_name": "",
+    "e_class": "",
+    "e_date": "",
+    "entry1_date": "",
+    "entry1_work": "",
+    "entry1_problem": "",
+    "entry2_date": "",
+    "entry2_work": "",
+    "entry2_problem": ""
+  },
+  "entries": [
+    {
+      "hasImage": false,
+      "imageData": null,
+      "id": "entry1"
+    },
+    {
+      "hasImage": false,
+      "imageData": null,
+      "id": "entry2"
+    }
+  ],
+  "rowIds": {
+    "folders": [
+      "folder1",
+      "folder2",
+      "folder3"
+    ],
+    "components": [
+      "comp1",
+      "comp2"
+    ],
+    "pages": [
+      "page1",
+      "page2",
+      "page3"
+    ]
+  },
+  "savedAt": "2026-08-17T22:55:51.926Z"
+}
