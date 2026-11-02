@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <title>WHS Sports</title>
+        <link rel="stylesheet" href="style.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&family=Oxygen:wght@300;400;700&display=swap" rel="stylesheet">
+        <script src="scripts/device-type.js" defer></script>
+        <script src="scripts/menu.js" defer></script>
+    </head>
+    <body>
+        <div id="menu" class="menu">
+            <button id="open"> 
+                <img class="menu-icon" src="images/menu_icon.png" alt="Menu">
+            </button>
+            <button id="close"> 
+                <img class="menu-icon" src="images/close_icon.png" alt="Close button">
+            </button>
+            <div id="content">
+                <a href="index.html"><button class="button-menu">Home</button></a><br>
+                <a href="photo-gallery.html"><button class="button-menu">Photo Gallery</button></a><br>
+                <a href="sports.html"><button class="button-menu">Sports</button></a><br>
+            </div>
+        </div>
+        <header>
+            <h2>Sports Sign up</h2>
+        </header>
+            <a href="index.html"><button class="main-button">Home</button></a>
+            <a href="photo-gallery.html" style="margin-left: auto;"><button class="main-button">Photo Gallery</button></a>
+            <a href="sports.html" style="margin-right: auto;"><button class="main-button">Our Sports</button></a>
+        <hr id="hr">       
+        <h3>Choose a sport</h3>
+        <div style="width: 100%;">
+            <input type="text" placeholder="Full Name">
+        </div>
+        <select id="sport">
+            <option>None</option>
+            <option>Badminton</option>
+            <option>Basketball</option>
+            <option>Cricket</option>
+            <option>Football</option>
+            <option>Golf</option>
+            <option>Hockey</option>
+            <option>Ki O Rahi</option>
+            <option>Rowing</option>
+            <option>Rugby</option>
+            <option>Tennis</option>
+            <option>Volleyball</option>
+        </select>
+        <div style="width: 100%;">
+            <input style="padding: 5px; font-size: 16px; margin-left: 45%; margin-right: 55%;" type="submit">
+        </div>    
+    </body>
+</html>
